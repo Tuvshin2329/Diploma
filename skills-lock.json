@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "skills": {
+    "charles-ux-animation": {
+      "source": "LemonFace0309/charles-skills",
+      "commit": "e9552ad0f6da3eb50d80765e317a2945f76f2d56",
+      "sourceType": "github",
+      "skillPath": "skills/charles-ux-animation/SKILL.md",
+      "computedHash": "c2ec3950e264c004ab2a0a4142de0a9d1ef3c2f966da67ef0946eba10f5fa6c9"
+    }
+  }
+}
